@@ -1,4 +1,4 @@
-# TemplateJS
+# TemplateJS ![MIT License](https://img.shields.io/badge/License-MIT-green.svg) ![release](https://shields.io/github/v/release/SeaJourney/node-server)
 A small JavaScript library that allows you to set all or a select amount of objects or tables to have default properties. This allows for quick and easy JS object template use which is really helpful when wanting to write code quickly and fast.
 
 # Usage
