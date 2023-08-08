@@ -3,11 +3,17 @@ A small JavaScript library that allows you to set all or a select amount of obje
 
 # Usage
 To use the library first download the files from the latest release and then import the template.js and the template.min.js into your local environment in a library folder or whatever location you want to use, after this in any JS file you want to use this just reference the following:
-#### Library
+### Library
+##### JavaScript
 ```js
 import { template } from './template.js';
 ```
-#### Reference
+##### HTML
+```html
+<script src="template.js"></script>
+<script src="template.min.js"></script>
+```
+### Reference
 ```js
 import { template } from './template.js';
 const object = {};
